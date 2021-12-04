@@ -1,0 +1,19 @@
+{
+  "name": "AE86",
+  "symbol": "",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "4974b4X8s57ypbmbD2YHQTdt61Fi7DkwJvACv9HP3VSk",
+        "share": 100
+      }
+    ]
+  }
+}
